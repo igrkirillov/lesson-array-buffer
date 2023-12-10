@@ -1,2 +1,2 @@
 # Lesson ArrayBuffer
-[![Build status](https://ci.appveyor.com/api/projects/status/51q3bk71fpsp33fe?svg=true)](https://ci.appveyor.com/project/igrkirillov/lesson-settings)
+[![Build status](https://ci.appveyor.com/api/projects/status/u7jgvc7b7s51ma24?svg=true)](https://ci.appveyor.com/project/igrkirillov/lesson-array-buffer)
