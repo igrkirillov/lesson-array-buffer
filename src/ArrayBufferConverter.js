@@ -5,8 +5,7 @@ export default class ArrayBufferConverter {
 
   load(buffer) {
     const data = [];
-    const bufferView = new Uint16Array(buffer);
-    bufferView.forEach(number => data.push(number));
+    new Uint16Array(buffer).forEach(number => data.push(number));
     this.twoBytesArray = data;
   }
 
